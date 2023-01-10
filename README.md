@@ -11,5 +11,7 @@
   -> email : i190652@nu.edu.pk
   
   -> cell  : +92 3202449082
+  
+  ->also check out my web portfolio at : https://my-portfolio-kappa-one-28.vercel.app/
 
 
