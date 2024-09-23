@@ -16,6 +16,6 @@
   
   -> Phone  : +92 3202449082
   
-  ->Also visit my web portfolio at : https://my-portfolio-kappa-one-28.vercel.app/
+  ->Feel free to also visit my web portfolio at : https://my-portfolio-kappa-one-28.vercel.app/
 
 
